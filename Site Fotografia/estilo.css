@@ -1,0 +1,21 @@
+#contentMarket {
+    max-width: 720px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#divider {
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+}
+
+#blockImage {
+    width: 500px;
+    height: 500px;
+    object-fit: cover;
+}
+
+#foot {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
